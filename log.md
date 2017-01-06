@@ -19,3 +19,17 @@ Emacs? Vim? IntelliJ? Sublime? Atom?
 
 **Link(s) to work**
 [ed663e7](https://github.com/Gaivile/breakout/commit/ed663e76a21eecd57e58b7d4708fc6cf90dc163d)
+
+
+### Day 3: January 5, Thursday
+
+**Today's Progress**: Built data structure (a map) to represent each brick as an integer (key) and nested lists of (x y) coordinates (values). Not sure if that's a good approach, as the whole structure becomes huge. At least, it only get's smaller.
+
+**Thoughts** Still can't manage the time and hour/hour-and-a-half is definitely not enough. However, this brings happiness! It's like Clojure-zen-time. I forgot how much fun it can be to work on personal projects! 
+And still thinking of editors. Tried IntelliJ at work, so far looks nice. Will try Emacs next Tuesday, can't wait!
+
+Another thought - I'm embarrassed about all the mess I'm leaving in the code. I'd normally wouldn't push until I've cleaned it and would have another hour (therefore - another day) for cleaning up when done. But those are rules of #100DaysOfCode - so let's pretend it looks fine. =^_^=
+
+**Link(s) to work**
+[7786006](https://github.com/Gaivile/breakout/commit/7786006041040120a3ffc3ab9a9784197f40a6d7)
+[e65039d](https://github.com/Gaivile/breakout/commit/e65039d269b307ae3bc9fe4440ace4a3bf26cbda)
