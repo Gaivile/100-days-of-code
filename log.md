@@ -33,3 +33,13 @@ Another thought - I'm embarrassed about all the mess I'm leaving in the code. I'
 **Link(s) to work**
 [7786006](https://github.com/Gaivile/breakout/commit/7786006041040120a3ffc3ab9a9784197f40a6d7)
 [e65039d](https://github.com/Gaivile/breakout/commit/e65039d269b307ae3bc9fe4440ace4a3bf26cbda)
+
+
+### Day 4: January 6, Friday
+
+**Today's Progress**: Didn't do much today - improved data structure so it's map keys are the coordinates of upper left corner of the brick. Should be easier to make collisions later. Started writing collision function.
+
+**Thoughts** Code drunk - refactor sober. \m/
+
+**Link(s) to work**
+[5971c87](https://github.com/Gaivile/breakout/commit/5971c875af5b0787b3c9eea9d184c4fcbe2f7fac)
