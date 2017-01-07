@@ -43,3 +43,14 @@ Another thought - I'm embarrassed about all the mess I'm leaving in the code. I'
 
 **Link(s) to work**
 [5971c87](https://github.com/Gaivile/breakout/commit/5971c875af5b0787b3c9eea9d184c4fcbe2f7fac)
+
+
+### Day 5: January 7, Saturday
+
+**Today's Progress**: Cleaned up the majority of the mess so it's easier to understand what's going on. Done a bit of refactoring towards data structures (again - Clojure is all about data!), was reminded that nested anonymous functions are not allowed :) Left a few notes for myself what needs to be done next so it's easier to finish it later.
+
+**Thoughts** 
+
+**Link(s) to work**
+[84eb564](https://github.com/Gaivile/breakout/commit/84eb56415398b4c2cb1fa6c3363f5d799361f46d)
+
