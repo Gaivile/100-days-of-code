@@ -49,7 +49,7 @@ Another thought - I'm embarrassed about all the mess I'm leaving in the code. I'
 
 **Today's Progress**: Cleaned up the majority of the mess so it's easier to understand what's going on. Done a bit of refactoring towards data structures (again - Clojure is all about data!), was reminded that nested anonymous functions are not allowed :) Left a few notes for myself what needs to be done next so it's easier to finish it later.
 
-**Thoughts** 
+**Thoughts** Was a bit frustrating to work at first as the code was kinda messy. Note to self - clean up your mess! It's a lazy Saturday, so it's nice to work in a slower and relaxing pace - and still having something done. Also, I need to somehow learn/have a reminder to not overcomplicate things. Writing small and short functions and then connecting them together is way more easier and understandable than creating long and complicated ones. 
 
 **Link(s) to work**
 [84eb564](https://github.com/Gaivile/breakout/commit/84eb56415398b4c2cb1fa6c3363f5d799361f46d)
