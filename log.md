@@ -67,3 +67,12 @@ Another thought - I'm embarrassed about all the mess I'm leaving in the code. I'
 **Link(s) to work**
 [45b8e5e](https://github.com/Gaivile/breakout/commit/45b8e5ed0d95f9929cb24c3702473d2957ac28e5)
 
+
+### Day 7: January 9, Monday
+
+**Today's Progress**: Today I was working on a different project - breakfast app which was started by my colleagues at work, but it's not really work-related. I was working with re-frame framework. I still am not really used to it or can use it comfortably, but it was a nice way to practice the framework. 
+
+**Thoughts** It's obviously easier to work on projects you know by heart or have written yourself, but it's an invaluable experiance to work on a project, started by someone else! You can see the different way of thinking and can use different approach on the future projects. It can be hard or even frustrating sometimes, but totally worth it - and really rewarding too. And I've just noticed - it's already a week of #100DaysOfCode! 
+
+**Link(s) to work**
+[92c4ef5](https://github.com/Gaivile/breakfast/commit/92c4ef56a3c6660e769e0edb2103d06b75b5db2c)
