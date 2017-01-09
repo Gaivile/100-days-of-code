@@ -54,3 +54,16 @@ Another thought - I'm embarrassed about all the mess I'm leaving in the code. I'
 **Link(s) to work**
 [84eb564](https://github.com/Gaivile/breakout/commit/84eb56415398b4c2cb1fa6c3363f5d799361f46d)
 
+
+### Day 6: January 8, Sunday
+
+**Today's Progress**: Today I've tried to put everything together how it's supposed to look like and run the game, and obviously - ran into new bugs. At first I've got a few exceptions, then got error in functions, but eventually, fixed those things. Game is running, however - bricks are not removed. And they can't be because I've stumbled upon a bug at (setup). Things to do next time: 
+1) Fix data structure for the grid, possibly at (generate); 
+2) Use new structure at (draw-bricks);
+3) Work on collision detection.
+
+**Thoughts** What works on small data structures - not necessarily works on bigger ones. Previously constructed map data structure doesn't work as expected on huge data sets. In (setup) function - functions are not called as expected as well (maybe, try (let) - and add the output as a structure...?). Will try to refactor (generate) - so it constructs the map straight away.
+
+**Link(s) to work**
+[45b8e5e](https://github.com/Gaivile/breakout/commit/45b8e5ed0d95f9929cb24c3702473d2957ac28e5)
+
