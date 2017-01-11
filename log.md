@@ -76,3 +76,15 @@ Another thought - I'm embarrassed about all the mess I'm leaving in the code. I'
 
 **Link(s) to work**
 [92c4ef5](https://github.com/Gaivile/breakfast/commit/92c4ef56a3c6660e769e0edb2103d06b75b5db2c)
+
+
+### Day 8: January 10, Tuesday
+
+**Today's Progress**: Got back to Breakout game. Fixed data structure (repeat "again and"), ran into a weird bug - runtime exception when having an anonymous function at (setup) to set up an atom of grid. However, I also made a quite hacky fix, when trying to understand the problem: it started working when I added (println) for the named function. It's quite a mystery for me - going to ask fellow Clojurians about this and do some research. 
+
+**Thoughts** I'm half dead today - like, deadly tired. I had quite the same bug two days ago in (setup) and though that it's because of badly constructed data. Well, data was indeed badly constructed, but today bug persisted too, even after fix. Really curious about this issue and would be glad to understand it. Stack trace showed TypeError and undefined value - that's also strange. Even more strange was to find out that it works with added (println) - I'd assume that it's something with asynchronous functions as I had something quite similar before in JavaScript - but it just doesn't feel like it's the case here. 
+
+**Link(s) to work**
+[22507ab](https://github.com/Gaivile/breakout/commit/22507abf2a4a9b57506df7588474d365b16b047d)
+[abe0e30](https://github.com/Gaivile/breakout/commit/abe0e30d7bd71c63365ba8c489b3299ca0a73e27)
+
