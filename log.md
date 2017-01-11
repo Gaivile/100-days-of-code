@@ -88,3 +88,13 @@ Another thought - I'm embarrassed about all the mess I'm leaving in the code. I'
 [22507ab](https://github.com/Gaivile/breakout/commit/22507abf2a4a9b57506df7588474d365b16b047d)
 [abe0e30](https://github.com/Gaivile/breakout/commit/abe0e30d7bd71c63365ba8c489b3299ca0a73e27)
 
+
+### Day 9: January 11, Wednesday
+
+**Today's Progress**: What a nice and productive day - I'm getting so close! Today, as always, I improved data structure on grid atom. Then, using the new structure, changed draw funtion to represent all the bricks. Started working on collision function and, surprisingly, finished it so now if a ball touches a brick, the brick disappears (is removed from the grid and not drawn anymore). It's not perfect yet - the game slows down on collision, so need to improve that.
+
+**Thoughts** Having a clear plan and knowing what exactly needs to be done really helps. So, I think I'll be writing some notes here too (maybe not always... Will see). Stuff that needs to be done: 1) improve collision function so it's faster; 2) implement (bounce) function so the ball bounces off the bricks on collision; 3) work on some math for the movement of the ball itself; 4) work on some colours.
+
+**Link(s) to work**
+[68449a5](https://github.com/Gaivile/breakout/commit/68449a5ce3b320b7f712c34142392c306b573e05)
+[a1614b8](https://github.com/Gaivile/breakout/commit/a1614b8dae41175b80eb09eb2fcab6c3f6af0da6)
