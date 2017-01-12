@@ -98,3 +98,13 @@ Another thought - I'm embarrassed about all the mess I'm leaving in the code. I'
 **Link(s) to work**
 [68449a5](https://github.com/Gaivile/breakout/commit/68449a5ce3b320b7f712c34142392c306b573e05)
 [a1614b8](https://github.com/Gaivile/breakout/commit/a1614b8dae41175b80eb09eb2fcab6c3f6af0da6)
+
+
+### Day 10: January 12, Thursday
+
+**Today's Progress**: Today I reassured that collision function works properly and made a ball bounce off some of the bricks. It still doesn't work as it should, as I'm getting null pointer exception in draw function (another mystary/magic thingie...) - have to debug that and work a bit on the math for bouncing. 
+
+**Thoughts** Oh god, I thought it's already Friday... Wasn't as productive today, not sure if I can be productive tomorrow too. Need more sleep, I guess..?
+
+**Link(s) to work**
+[4b6c019](https://github.com/Gaivile/breakout/commit/4b6c01939ecdbc44700e9371a64739a1f886460f)
