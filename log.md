@@ -118,3 +118,14 @@ Another thought - I'm embarrassed about all the mess I'm leaving in the code. I'
 
 **Link(s) to work**
 [056b728](https://github.com/Gaivile/breakout/commit/056b728eca687e68681f857bdbe316c72c38bd6f)
+
+
+### Day 12: January 15, Sunday
+
+**Today's Progress**: Continuing on improving the game =^_^= Fixed a small issue with the bottom so that the game is lost if a player didn't catch the ball with a paddle. Also changed colour theme - the row of bricks get randomly generated colour on each collision. 
+
+**Thoughts** The more I work on this game, the more I enjoy the process! I think I'm kinda done with the major part - data structure for pixels around each brick (quite unbelievable though). However, now I've got an idea of won/lost part of the game. I think I'll <i>really</i> be working on this, just because. Need some ideas for what to put there, but I'll come up with something.
+
+**Link(s) to work**
+[9ab0cf9](https://github.com/Gaivile/breakout/commit/9ab0cf9ec19908d7fad7486fb98be0739edcb316)
+[44c531c](https://github.com/Gaivile/breakout/commit/44c531cfcae27940a8e935bfbafa1a74f5b6e02b)
