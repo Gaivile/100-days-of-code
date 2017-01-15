@@ -108,3 +108,13 @@ Another thought - I'm embarrassed about all the mess I'm leaving in the code. I'
 
 **Link(s) to work**
 [4b6c019](https://github.com/Gaivile/breakout/commit/4b6c01939ecdbc44700e9371a64739a1f886460f)
+
+
+### Day 11: January 14, Saturday
+
+**Today's Progress**: Eeks! I've missed a day yesterday :( So, getting back on track today - already past 12, so done a late commit, but it's totally worth it as I have a working version of the game! So excited! Null pointer exception was because I forgot to put (do) function in (if) statement when I had more than one function there. I also changed the math for ball direction which solved another issue with not every brick being removed and some bouncing troubles. 
+
+**Thoughts** So, I just realized that I missed Friday the 13th - guess it's for the better as I was quite tired after writing insane SQL queries at work. I literally was dreaming databases the night after. However, today I was able to do my own things with fresh mind and well-rested which lead to improving the game as much as it's working and really play-able. There are still a couple of things left to do: 1) Fix an issue with a ball being able to go up when it's missed by the player to save - it shouldn't go back up (easy fix); 2) do something about the colours - maybe change each line to a rancom colour when collision occurs; 3) maybe add you won/you lost thing? 
+
+**Link(s) to work**
+[056b728](https://github.com/Gaivile/breakout/commit/056b728eca687e68681f857bdbe316c72c38bd6f)
