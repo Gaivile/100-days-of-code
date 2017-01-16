@@ -129,3 +129,15 @@ Another thought - I'm embarrassed about all the mess I'm leaving in the code. I'
 **Link(s) to work**
 [9ab0cf9](https://github.com/Gaivile/breakout/commit/9ab0cf9ec19908d7fad7486fb98be0739edcb316)
 [44c531c](https://github.com/Gaivile/breakout/commit/44c531cfcae27940a8e935bfbafa1a74f5b6e02b)
+
+
+### Day 12: January 15, Sunday
+
+**Today's Progress**: Today I added win, lose and play again features to the game. Nothing much to explain - if a game is lost, "you lost" appears and if it's won - "you won", also a mouse click restarts the game after winning/losing. Quil is pretty coll library for these kind of functions. It was hard to work with collision detection, but it also was a good experience. Other things were just really cool and fun, and enjoyable =^_^=
+
+**Thoughts** I guess, this game is pretty much done. I might add some additional featueres in the future or make it look somehow different, but for now I'm happy with the result. What I've learned so far is that the most important thing in Clojure is data. It's stressed in every Clojure-related blogpost or tweet or anywhere - but that's simply because it's true. Once you've got the right structure, using Clojure for data processing is incredibly pleasant. Started to think about the next project. Hmm... Maybe another game?
+
+**Link(s) to work**
+[9f51670](https://github.com/Gaivile/breakout/commit/9f51670f790359bbca8c28a8ad1e39e803306d58)
+
+
