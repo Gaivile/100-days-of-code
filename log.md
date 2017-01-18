@@ -149,3 +149,13 @@ Another thought - I'm embarrassed about all the mess I'm leaving in the code. I'
 
 **Link(s) to work**
 [Attended this workshop](https://www.meetup.com/London-Clojurians/events/230231615/)
+
+
+### Day 15: January 18, Wednesday
+
+**Today's Progress**: Introduced myself to a new project (a website for a friend) with Php (brrr...). So much for today's progress...
+
+**Thoughts** Quite a hard day - I think I've fallen ill, so left from work earlier :/ Was feeling like death. Then my friend asked to check her website and make some changes. I just though to myself <i>Oh, what could possibly go wrond so I couldn't fix it?...</i> - and opened the source code. Oh how wrong I was! To make things worse, I've found some pretty much horribly written Php code, using Joomla! templates. Like, yeah... The nightmare upon a nightmare. Basically, an unmaintainable clusterf*ck. 
+
+**Link(s) to work**
+It's a TRAP!!!!!
