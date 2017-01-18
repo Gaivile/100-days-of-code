@@ -131,7 +131,7 @@ Another thought - I'm embarrassed about all the mess I'm leaving in the code. I'
 [44c531c](https://github.com/Gaivile/breakout/commit/44c531cfcae27940a8e935bfbafa1a74f5b6e02b)
 
 
-### Day 12: January 15, Sunday
+### Day 13: January 16, Monday
 
 **Today's Progress**: Today I added win, lose and play again features to the game. Nothing much to explain - if a game is lost, "you lost" appears and if it's won - "you won", also a mouse click restarts the game after winning/losing. Quil is pretty coll library for these kind of functions. It was hard to work with collision detection, but it also was a good experience. Other things were just really cool and fun, and enjoyable =^_^=
 
@@ -141,3 +141,11 @@ Another thought - I'm embarrassed about all the mess I'm leaving in the code. I'
 [9f51670](https://github.com/Gaivile/breakout/commit/9f51670f790359bbca8c28a8ad1e39e803306d58)
 
 
+### Day 14: January 17, Tuesday
+
+**Today's Progress**: A bit hard to measure the progress as I've finally found some courage to change the editor - learning Emacs! I know that it's not concidered as "personal coding project" per say, but it's quite big for me. I'm feeling like a 5 y/o for the first time at the computer, using MS Paint :D But I kinda like Emacs. I was convinced how powerful it is, so it seems like nice journey of learning.
+
+**Thoughts** I think I'll do something small and simple this time - just to get more familiar with Emacs. Maybe some tiny exercise with a single namespace, then next time something slightly bigger... I don't know yet. I was told about a steep learning curve with Emacs, but I don't want it to be too steep anyway.  
+
+**Link(s) to work**
+[Attended this workshop](https://www.meetup.com/London-Clojurians/events/230231615/)
