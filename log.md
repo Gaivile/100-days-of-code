@@ -159,3 +159,18 @@ Another thought - I'm embarrassed about all the mess I'm leaving in the code. I'
 
 **Link(s) to work**
 It's a TRAP!!!!!
+
+
+### Day 16: January 19, Thursday
+
+**Today's Progress**: Was trying to maintain unmaintainable, got frustrated, decided to start a new (proper) project.
+
+**Thoughts** I was told to try not to do any programming today - well, I failed that. Still feeling quite miserable and staying home without any energy is really not nice. I think I'll still help a friend with her website when I feel better, but I also want to do some personal project for the sake of this challenge and because I want to learn using Emacs for Clojure, and also because I couldn't find any time. I'll be making a Game of Fifteen - a puzzle game where a player has to rearrange squares in the right order. Well, picture will help:
+
+![15-puzzle-loyd svg](https://cloud.githubusercontent.com/assets/11088666/22128899/e29ad1b8-de9a-11e6-8174-408ba7e654a3.png)
+
+I'll make it in ClojureScript using Reagent and Re-frame, it's going to be interesting. 
+
+
+**Link(s) to work**
+[The repo of the (soon to be) game](https://github.com/Gaivile/game-of-fifteen)
