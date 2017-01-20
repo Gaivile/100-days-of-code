@@ -174,3 +174,13 @@ I'll make it in ClojureScript using Reagent and Re-frame, it's going to be inter
 
 **Link(s) to work**
 [The repo of the (soon to be) game](https://github.com/Gaivile/game-of-fifteen)
+
+
+### Day 17: January 20, Friday
+
+**Today's Progress**: Opened an already finished Breakout game in Emacs just to find that it doesn't work (and therefore - not that finished) :D The problem was that I've written functions for win/lose in the wrong order and LightTable didn't show that because it works slightly differently. Also, decided to play the game itself a little longer just to find another bug: after losing, the bricks didn't reset, but rather got one on another as duplicates, like layers, so they had to be hit multiple times to disappear. There is no such issue with winning as all the bricks are removed by the player, but I still decided to fix the issue with losing in (play-again), and it looks like a good decision. 
+
+**Thoughts** Was nice to go to work after being off yesterday. Feeling better today. Also, it's a real struggle to learn Emacs, possibly because for me personally it's always a bit more iteresting to actually work on some project than learn to use a new tool. Well, I've got a feeling, when I get a bit better with Emacs, I'll really enjoy the process of learning and expanding the knowledge, but I'm not there yet.
+
+**Link(s) to work**
+[248b8d8](https://github.com/Gaivile/breakout/commit/248b8d8642bb7bbf6384198e67713e083e06abae)
