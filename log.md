@@ -184,3 +184,24 @@ I'll make it in ClojureScript using Reagent and Re-frame, it's going to be inter
 
 **Link(s) to work**
 [248b8d8](https://github.com/Gaivile/breakout/commit/248b8d8642bb7bbf6384198e67713e083e06abae)
+
+
+### Day 18: January 21, Saturday
+
+**Today's Progress**: Hack the Tower event and some ClojureScript along with Reagent making Kanban kind of board for to-do lists. It's by [Lambda Island](https://lambdaisland.com/episodes/reagent) videos and learning material, they're so useful and easy to follow. Also, I somehow managed to break my Spacemacs, but during the event, I got help to fix it, so was able to get used to Spacemacs a bit more.
+
+**Thoughts** I barely made it this Saturday - I've got even more ill :( 
+
+**Link(s) to work**
+[260de6f](https://github.com/Gaivile/kanban-lambda-island/commit/260de6fc5821a87dbf80dcec51019348ecb03e30)
+
+
+### Day 19: January 23, Monday
+
+**Today's Progress**: Continuing on [Lambda Island](https://lambdaisland.com/episodes/reagent-2-cursors) and Kanban project. I'm really glad we started this on Hack the Tower on Saturday as I probably wouldn't be doing any project at all right now because my brain is melting. Learning a lot with ease - I think the understanding of how Reagent works will give me a stronger foundation for later work witg Re-Frame when building the next game.
+
+**Thoughts** Being ill sucks. I skipped the day yesterday as I could hardly get out of the bed. I think I had fever. Today again, I really struggled to do anything at work, colleagues even suggested me to go home, but I <b>really</b> wanted to have my stuff finished and I knew that at home I just couldn't. So taking it easy today, going slowly through a tutorial and learning the sorcery of Reagent.
+
+**Link(s) to work**
+[3a2747d](https://github.com/Gaivile/kanban-lambda-island/commit/3a2747d21522f32ab782fe197c21ec9e85afe2f4)
+
