@@ -198,10 +198,21 @@ I'll make it in ClojureScript using Reagent and Re-frame, it's going to be inter
 
 ### Day 19: January 23, Monday
 
-**Today's Progress**: Continuing on [Lambda Island](https://lambdaisland.com/episodes/reagent-2-cursors) and Kanban project. I'm really glad we started this on Hack the Tower on Saturday as I probably wouldn't be doing any project at all right now because my brain is melting. Learning a lot with ease - I think the understanding of how Reagent works will give me a stronger foundation for later work witg Re-Frame when building the next game.
+**Today's Progress**: Continuing on [Lambda Island](https://lambdaisland.com/episodes/reagent-2-cursors) and Kanban project. I'm really glad we started this on Hack the Tower on Saturday as I probably wouldn't be doing any project at all right now because my brain is melting. Learning a lot with ease - I think the understanding of how Reagent works will give me a stronger foundation for later work with Re-Frame when building the next game.
 
 **Thoughts** Being ill sucks. I skipped the day yesterday as I could hardly get out of the bed. I think I had fever. Today again, I really struggled to do anything at work, colleagues even suggested me to go home, but I <b>really</b> wanted to have my stuff finished and I knew that at home I just couldn't. So taking it easy today, going slowly through a tutorial and learning the sorcery of Reagent.
 
 **Link(s) to work**
 [3a2747d](https://github.com/Gaivile/kanban-lambda-island/commit/3a2747d21522f32ab782fe197c21ec9e85afe2f4)
+
+
+### Day 20: January 24, Tuesday
+
+**Today's Progress**: Finishing episodes of [Lambda Island](https://lambdaisland.com/episodes/reagent-3-keys-lifecycle-methods) on Reagent and Kanban project. Today I've finished this project by adding functionality to add more cards and columns for to-do list. 
+
+**Thoughts** Got better today, so trying to stay on track. Can't say that I really fully understand how Reagent works. The lessons from lambda Island make sense and I understand what's happening there, just not sure where I'd start with my own project (yep, already thinking about the game). I think I'll try another project from Lambda Island as I've learned a lot from this one. Thinking about Re-frame this time. Also, it was quite fun to have a "<i>build a to-do project</i>" on my own to-do list :D
+
+**Link(s) to work**
+[ab7556a](https://github.com/Gaivile/kanban-lambda-island/commit/ab7556a08b87faea331117191780c9c0d005d6b7)
+
 
